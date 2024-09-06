@@ -6,7 +6,7 @@ This repository contains a deep learning project for detecting car number plates
 
 The dataset used in this project is available on Kaggle:
 
-[Car Number Plate Dataset](https://www.kaggle.com/alihassanml)
+[Car Number Plate Dataset](https://www.kaggle.com/alihassanml/car-number-plate)
 
 To download the dataset, you can use the Kaggle API:
 
